@@ -1,0 +1,1 @@
+USER_IMAGE_PATH = "uploads/user_images"
